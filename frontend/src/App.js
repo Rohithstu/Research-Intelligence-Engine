@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import './App.css';
 
-const API_BASE = 'http://localhost:8000';
-const WS_BASE = 'ws://localhost:8000';
+const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+const WS_BASE = (process.env.REACT_APP_API_URL || 'http://localhost:8000').replace(/^http/, 'ws');
 
 // ─── SVG Components ───
 
