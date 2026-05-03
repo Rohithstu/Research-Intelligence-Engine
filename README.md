@@ -6,6 +6,7 @@
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-00ADEF?style=flat-square)](https://github.com/facebookresearch/faiss)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-blueviolet?style=flat-square&logo=vercel)](https://research-intelligence-engine-72d8clj0c.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](LICENSE)
 
 ---
@@ -133,6 +134,8 @@ npm start
 ```
 
 **Dashboard Access:** Open [http://localhost:3000](http://localhost:3000)
+
+**Live Demo:** [https://research-intelligence-engine-72d8clj0c.vercel.app/](https://research-intelligence-engine-72d8clj0c.vercel.app/)
 
 ---
 
